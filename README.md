@@ -1,16 +1,16 @@
 # Git Workflow
 
-**Author:** _\<your name\>_
+**Author:** _Callie Enfield_
 
-**Due date:** _\<date\>_
+**Due date:** _February 4, 2016_
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+_We were expected to clone and edit README.md._
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+_I learned how to clone to my local desktop and edit the code.  I learned that it wouldn't produce my text without taking away the outside brackets and stuff._
 
 ## Honor Pledge
 
@@ -21,4 +21,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+_Callie Enfield_
